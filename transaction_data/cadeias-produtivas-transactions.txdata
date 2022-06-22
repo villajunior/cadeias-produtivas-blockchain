@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "cadeiasProdutivasExists",
+        "transactionLabel": "A test cadeiasProdutivasExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCadeiasProdutivas",
+        "transactionLabel": "A test createCadeiasProdutivas transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCadeiasProdutivas",
+        "transactionLabel": "A test readCadeiasProdutivas transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCadeiasProdutivas",
+        "transactionLabel": "A test updateCadeiasProdutivas transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCadeiasProdutivas",
+        "transactionLabel": "A test deleteCadeiasProdutivas transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
